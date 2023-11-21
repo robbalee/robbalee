@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently working on Web Development<br>👯‍♂️ I'm looking to collaborate on creating web applications<br>🤝 I'm looking for help with building Dapps on TON blockchain<br>🌱 I'm currently learning Typescript <br>💬 Ask me about No code tools<br>⚡️ Fun facts - I'm a singer
+🔭 I'm currently working on Web Development<br>👯‍♂️ I'm looking to collaborate on creating web applications<br>🤝 I'm looking for help with building Dapps on TON blockchain<br>🌱 I'm currently learning Typescript <br>💬 Ask me about No code tools<br>⚡️ Fun facts - I'm a singer. 
 
 
 ## 🌐 Socials:

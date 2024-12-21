@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently Developing AI powered web Development<br>👯‍♂️ I'm looking to collaborate on creating web applications<br>🤝 I'm looking for help with generative UI<br>🌱 I'm currently learning Pytorch <br>💬 Ask me about No code tools<br>⚡️ Fun facts - I'm a singer. 
+🔭 I'm currently Practicing Devops with the largest companies in the world<br>👯‍♂️ I'm looking to collaborate on MLOps<br>🤝 I'm looking for help with Cuda<br>🌱 I'm currently learning Distributed Sytems <br>💬 Ask me about Cloud infrastructure<br>⚡️ Fun facts - I like space science. 
 
 
 ## 🌐 Socials:

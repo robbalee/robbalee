@@ -1,8 +1,13 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently Practicing Devops with the largest companies in the world<br>👯‍♂️ I'm looking to collaborate on MLOps<br>🤝 I'm looking for help with Cuda<br>🌱 I'm currently learning Distributed Sytems <br>💬 Ask me about Cloud infrastructure<br>⚡️ Fun facts - I like space science. 
 
+🔭 I'm currently Practicing Devops and Automating myself in Azure<br>
+👯‍♂️ I'm looking to collaborate on Cloud Migration<br>
+🤝 I'm looking for help with ML Infra<br>
+🌱 I'm currently learning Distributed Sytems<br>
+💬 Ask me about Azure or Cloud infrastructure<br>
+⚡️ Fun facts - I like Math and Space science.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robel-alemu) 
